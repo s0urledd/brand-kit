@@ -1,0 +1,17 @@
+{
+  "name": "Huginn",
+  "colors": {
+    "background": "#0B0D10",
+    "card": "#14171C",
+    "line": "#2A2F38",
+    "text": "#F2F3F5",
+    "muted": "#9AA3AF",
+    "accent": "#E8B44A",
+    "white": "#FFFFFF"
+  },
+  "fonts": {
+    "primary": "Inter",
+    "fallback": "Arial, sans-serif",
+    "mono": "JetBrains Mono"
+  }
+}

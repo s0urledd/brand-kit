@@ -1,0 +1,10 @@
+:root {
+  --huginn-bg: #0B0D10;
+  --huginn-card: #14171C;
+  --huginn-line: #2A2F38;
+  --huginn-text: #F2F3F5;
+  --huginn-muted: #9AA3AF;
+  --huginn-accent: #E8B44A;
+  --huginn-font: 'Inter', Arial, sans-serif;
+  --huginn-font-mono: 'JetBrains Mono', monospace;
+}
